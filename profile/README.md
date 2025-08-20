@@ -142,6 +142,7 @@ We want to create a self-service tool, so anyone, who have a badge can define na
 
 GitHub: [https://github.com/beastdao/beast-badge-v1](https://github.com/beastdao/beast-badge-v1)
 
+![protov2](https://github.com/user-attachments/assets/ca8b2aa5-673d-4e40-bf6d-8b104e7a4212)
 
 
 # How we cooperate
