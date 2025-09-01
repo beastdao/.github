@@ -153,3 +153,5 @@ To learn more on how we cooperate, please check out [this document](https://docs
 # Get involved
 
 Please reach out to us, if you want to join BEAST DAO: beastcoopdao@gmail.com or just visit our [Discord](https://discord.gg/McqF7vyCWx).
+
+![](https://komarev.com/ghpvc/?username=beastdao&color=7A81FF)
